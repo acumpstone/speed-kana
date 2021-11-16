@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Japanese_Hirigana_kyokashotai_RI.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="170.64567"
+     inkscape:cy="287.8926"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.70832)">
+    <g
+       aria-label="り"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.1111145px;line-height:1.25;font-family:'MS Mincho';-inkscape-font-specification:'MS Mincho';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text12"
+       transform="translate(-30.285346,73.697478)">
+      <path
+         d="m 67.106523,100.65711 q 8.26823,2.20486 11.575522,6.61458 1.653645,2.20486 0,5.51215 -3.307292,6.61459 -5.512153,22.04861 -1.653646,12.67796 0,21.4974 0.551215,3.30729 2.204861,0.55122 11.024306,-30.86806 20.946181,-40.78994 6.063366,-6.06336 12.677956,-6.06336 6.06336,0 9.92187,3.8585 8.81945,8.81945 8.81945,32.5217 0,33.07292 -14.88282,47.95573 -13.78038,13.78039 -33.62413,19.29254 -3.858507,0 -1.102431,-2.20486 14.331598,-4.40972 27.560761,-17.63889 14.3316,-14.3316 14.3316,-48.50695 0,-24.25347 -6.06337,-30.31684 -2.20486,-2.20486 -4.96093,-2.20486 -3.85851,0 -8.26823,4.40972 -8.268233,8.26823 -18.741324,38.03386 -2.756076,7.71701 -2.756076,14.88281 0,6.61459 -4.409723,6.61459 -3.307291,0 -4.960937,-4.96094 -3.307292,-9.92188 -3.307292,-25.35591 0,-13.78038 3.858507,-34.72656 1.102431,-6.06337 -4.409722,-9.37066 -2.204861,-1.65364 1.10243,-1.65364 z"
+         style="font-size:141.1111145px;stroke-width:0.26458332"
+         id="path14"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

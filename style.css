@@ -1,0 +1,32 @@
+body {
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+
+.kana {
+    width: 10vw;
+}
+
+.kana-container > *{
+    animation: fly 10s linear infinite;
+    top: 0;
+    left: 0;
+    position: fixed;
+    z-index: 999;
+    pointer-events: none;
+    
+}
+
+@keyframes fly {
+    0% {
+        display: block;
+        transform: translate(0, 110vh);
+    }
+
+    50% {
+        transform: translate(110vw, 0);
+    }
+
+    100% {
+        transform: translate(0, 110vh);
+    }
+}
